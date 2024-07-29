@@ -5,7 +5,7 @@
     font-size: 50px;
     padding-top: 140px;
     text-align: justify;
-    color: rgb(20, 20, 20);
+    color: rgb(47, 188, 240);
 }
 .principal{
    display: flex;
@@ -16,4 +16,18 @@ body{
     background-repeat: no-repeat;
 
 }
+.img1{
+height: 300px;
+width: 300px;
+background-image: url("images.png");
+background-repeat: no-repeat;
+float: right;
 
+}
+
+.titulo{
+
+font-size: 100px;
+color: rgb(216, 108, 214);
+text-align: center;
+}
