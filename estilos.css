@@ -31,3 +31,10 @@ font-size: 100px;
 color: rgb(216, 108, 214);
 text-align: center;
 }
+
+.img1{          
+
+height: 300px ;
+width: 300px;
+background-image:voltaje-de circuito-abierto-y-cerrado(1).png ;
+}
