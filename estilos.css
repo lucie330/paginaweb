@@ -12,8 +12,10 @@
      
 }
 body{
-    background-image: url("image.png");
-    background-repeat: no-repeat;
+    background-image: url("pexels-photo-1169754.jpeg");
+    background-repeat:;
+    height: 500px;
+    width: 500px;
 
 }
 .img1{
@@ -36,5 +38,15 @@ text-align: center;
 
 height: 300px ;
 width: 300px;
-background-image:voltaje-de circuito-abierto-y-cerrado(1).png ;
+background-image:url("circuito_simple\ \(1\).png");
+}
+.textot{
+
+
+
+    font-size: 70px;
+    padding-top: 100px;
+    text-align:justify ;
+    color: rgb(191, 190, 231);
+
 }
