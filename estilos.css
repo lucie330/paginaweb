@@ -13,9 +13,9 @@
 }
 body{
     background-image: url("pexels-photo-1169754.jpeg");
-    background-repeat:;
+    
     height: 500px;
-    width: 500px;
+    width: 100%;
 
 }
 .img1{
@@ -48,5 +48,29 @@ background-image:url("circuito_simple\ \(1\).png");
     padding-top: 100px;
     text-align:justify ;
     color: rgb(191, 190, 231);
+
+}
+
+.imagen2{
+
+    height: 300px ;
+    width: 300px;
+    background-image:url("descarga.png");
+
+
+
+
+}
+
+.textoa{
+
+    font-size: 40px;
+    padding-top: 40px;
+    text-align:justify ;
+    color: rgb(226, 127, 127);
+
+
+
+
 
 }
