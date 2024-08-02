@@ -13,9 +13,9 @@
 }
 body{
     background-image: url("pexels-photo-1169754.jpeg");
-    
-    height: 1400px;
-    width: 100%;
+    background-repeat:;
+    height: 500px;
+    width: 500px;
 
 }
 .img1{
