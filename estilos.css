@@ -17,7 +17,7 @@
 
 font-size: 80px;
 font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-color: rgb(77, 87, 105);
+color: rgb(160, 179, 218);
 text-align: center;
 }
 
@@ -309,65 +309,66 @@ background-repeat: no-repeat;
 
            .textod{
 
-            font-size: 35px;
+            font-size: 30px;
             font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
             padding-top: 40px;
             text-align:justify ;
-            color: rgb(102, 117, 145);
+            color: rgb(132, 152, 189);
                }
+               
 
                .textoe{
 
-                font-size: 35px;
+                font-size:  30px;
                 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
                 padding-top: 40px;
                 text-align:justify ;
-                color: rgb(102, 117, 145);
+                color: rgb(132, 152, 189);
                    }
 
                    .textoa{
 
-                    font-size: 35px;
+                    font-size: 30px;
                     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
                     padding-top: 40px;
                     text-align:justify ;
-                    color: rgb(102, 117, 145);
+                    color: rgb(132, 152, 189);
                        }
 
                        .textou{
 
-                        font-size: 35px;
+                        font-size: 30px;
                         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
                         padding-top: 40px;
                         text-align:justify ;
-                        color: rgb(102, 117, 145);
+                        color: rgb(132, 152, 189);
                            }
 
                            
                            .textot{
 
-                            font-size: 35px;
+                            font-size: 30px;
                             font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
                             padding-top: 40px;
                             text-align:justify ;
-                            color: rgb(102, 117, 145);
+                            color: rgb(132, 152, 189);
                                }
 
                                .textoh{
                                 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-                                font-size: 35px;
+                                font-size: 30px;
                                 padding-top: 40px;
                                 text-align:justify ;
-                                color: rgb(102, 117, 145);
+                                color: rgb(132, 152, 189);
                             
                                    }
         
- .body{
-background-image: url("azul2.webp");
-background-repeat: no-repeat;
-height: 1000;
-width: 1000;
- }
+                                   body{
+                                    background-image: url("pexels-photo-1169754.jpeg");
+                                    
+
+                               }
+                                
      
                       
 
