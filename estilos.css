@@ -5,13 +5,13 @@
     font-size: 50px;
     padding-top: 140px;
     text-align: justify;
-    color: rgb(47, 188, 240);
+    color: rgb(161, 113, 165);
 }
 .principal{
    display: flex;
      
 }
-body{
+.body{
     background-image: url("pexels-photo-1169754.jpeg");
     
     height: 500px;
