@@ -2,35 +2,22 @@
 
 .texto{
    
-    font-size: 50px;
+    font-size: 60px;
     padding-top: 140px;
     text-align: justify;
-    color: rgb(161, 113, 165);
+    color: rgb(83, 111, 128);
 }
 .principal{
    display: flex;
      
 }
-.body{
-    background-image: url("pexels-photo-1169754.jpeg");
-    
-    height: 500px;
-    width: 100%;
 
-}
-.img1{
-height: 300px;
-width: 300px;
-background-image: url("images.png");
-background-repeat: no-repeat;
-float: right;
-
-}
 
 .titulo{
 
-font-size: 100px;
-color: rgb(216, 108, 214);
+font-size: 80px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: rgb(77, 87, 105);
 text-align: center;
 }
 
@@ -40,40 +27,9 @@ height: 300px ;
 width: 300px;
 background-image:url("circuito_simple\ \(1\).png");
 }
-.textot{
 
 
 
-    font-size: 70px;
-    padding-top: 70px;
-    text-align:justify ;
-    color: rgb(191, 190, 231);
-
-}
-
-.imagen2{
-
-    height: 300px ;
-    width: 300px;
-    background-image:url("descarga.png");
-
-
-
-
-}
-
-.textoa{
-
-    font-size: 40px;
-    padding-top: 40px;
-    text-align:justify ;
-    color: rgb(226, 127, 127);
-
-
-
-
-
-}
 
 .imagen1{
 height: 300px;
@@ -349,7 +305,69 @@ background-repeat: no-repeat;
          background-position: centers;
     
            }     
- 
+
+
+           .textod{
+
+            font-size: 35px;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            padding-top: 40px;
+            text-align:justify ;
+            color: rgb(102, 117, 145);
+               }
+
+               .textoe{
+
+                font-size: 35px;
+                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                padding-top: 40px;
+                text-align:justify ;
+                color: rgb(102, 117, 145);
+                   }
+
+                   .textoa{
+
+                    font-size: 35px;
+                    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                    padding-top: 40px;
+                    text-align:justify ;
+                    color: rgb(102, 117, 145);
+                       }
+
+                       .textou{
+
+                        font-size: 35px;
+                        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                        padding-top: 40px;
+                        text-align:justify ;
+                        color: rgb(102, 117, 145);
+                           }
+
+                           
+                           .textot{
+
+                            font-size: 35px;
+                            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                            padding-top: 40px;
+                            text-align:justify ;
+                            color: rgb(102, 117, 145);
+                               }
+
+                               .textoh{
+                                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                                font-size: 35px;
+                                padding-top: 40px;
+                                text-align:justify ;
+                                color: rgb(102, 117, 145);
+                            
+                                   }
+        
+ .body{
+background-image: url("azul2.webp");
+background-repeat: no-repeat;
+height: 1000;
+width: 1000;
+ }
      
                       
 
