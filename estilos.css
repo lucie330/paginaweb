@@ -191,9 +191,92 @@ background-repeat: no-repeat;
                         background-repeat: no-repeat;
                        }
 
+                       
                        .bulimia{
                         height: 300;
                         width: 560;
                         background-image: url(bulimia.webp);
                         background-repeat: no-repeat;
                        }
+
+
+                       .ciclo{
+                        height: 560;
+                        width: 560;
+                        background-image: url(ciclo.jpg);
+                        background-repeat: no-repeat;
+                        float: left;
+                       }
+
+                       .hormonas{
+                        height: 300;
+                        width: 1000;
+                        background-image: url(hormonas.png);
+                        background-repeat: no-repeat;
+                       }
+
+                       .ciclo2{
+                        height: 230;
+                        width: 525;
+                        background-image: url(ciclo2.jpg);
+                        background-repeat: no-repeat;
+                        float: right;
+                     
+                       }
+
+                       .sintomas{
+                        height: 300;
+                        width: 600;
+                        background-image: url(sintomas.avif);
+                        background-repeat: no-repeat;
+                        float: right;
+                       
+                       }
+
+                       .tabla{
+                        height: 300;
+                        width: 600;
+                        background-image: url(tabla.jpg);
+                        background-repeat: no-repeat;
+                        float: left;
+                       
+                       }
+
+                       .subnivel{
+                        height: 150;
+                        width: 500;
+                        background-image: url(subnivel.webp);
+                        background-repeat: no-repeat;
+                      
+                       }
+
+                       .tabla{
+                        height: 300;
+                        width: 600;
+                        background-image: url(tabla.jpg);
+                        background-repeat: no-repeat;
+                        float: left;
+                       
+                       }
+
+                       .pauli{
+                        height: 200;
+                        width: 300;
+                        background-image: url(pauli.jpg);
+                        background-repeat: no-repeat;
+                        float: left;
+                       
+                       }
+
+                       .cuantico{
+                        height: 600;
+                        width: 600;
+                        background-image: url(cuantico.jpg);
+                        background-repeat: no-repeat;
+                        float: right;
+                       
+                       }
+
+
+                      
+
