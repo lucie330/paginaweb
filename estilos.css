@@ -175,3 +175,25 @@ background-repeat: no-repeat;
                         background-image: url(mental.png);
                         background-repeat: no-repeat;
                        }
+
+                       .trastorno{
+                        height: 234;
+                        width: 560;
+                        background-image: url(trastorno.jpg);
+                        background-repeat: no-repeat;
+                       }  
+
+
+                       .anorexia{
+                        height: 234;
+                        width: 560;
+                        background-image: url(anorexia.webp);
+                        background-repeat: no-repeat;
+                       }
+
+                       .bulimia{
+                        height: 300;
+                        width: 560;
+                        background-image: url(bulimia.webp);
+                        background-repeat: no-repeat;
+                       }
