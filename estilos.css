@@ -45,7 +45,7 @@ background-image:url("circuito_simple\ \(1\).png");
 
 
     font-size: 70px;
-    padding-top: 100px;
+    padding-top: 70px;
     text-align:justify ;
     color: rgb(191, 190, 231);
 
@@ -74,3 +74,104 @@ background-image:url("circuito_simple\ \(1\).png");
 
 
 }
+
+.imagen1{
+height: 300px;
+width: 300px;
+background-image: url(imagen1.jpg);
+background-repeat: no-repeat;
+float: left;
+
+}
+
+.coma{
+height: 150px;
+width: 150px;
+background-image: url(coma.png);
+background-repeat: no-repeat;
+
+}
+
+.pesas{
+height: 234px;
+width: 234px;
+background-image: url(pesas.jpg);
+background-repeat: no-repeat;
+
+
+
+}
+
+.comida{
+height: 234px;
+width: 234px;
+background-image: url(comida.jpg);
+background-repeat: no-repeat;
+}
+
+.agua{
+height: 234;
+width: 234;
+background-image: url(agua.jpg);
+background-repeat: no-repeat;
+}
+
+.estres{
+height: 180;
+width: 234px;
+background-image: url(estres.jpg);
+background-repeat: no-repeat;
+}
+
+.mental{
+height: 234;
+width: 560;
+background-image: url(mental.png);
+background-repeat: no-repeat;
+
+
+}
+
+.dulce{
+    height: 234;
+    width: 500;
+    background-image: url(dulce.jpg);
+    background-repeat: no-repeat;
+    }
+
+
+    .fumar{
+        height: 234;
+        width: 500;
+        background-image: url(fumar.jpg);
+        background-repeat: no-repeat;
+        }
+
+        .chatarra{
+            height: 220;
+            width: 234;
+            background-image: url(chatarra.jpg);
+            background-repeat: no-repeat;
+            }
+
+            .alcohol{
+                height: 400;
+                width: 500;
+                background-image: url(alcohol.jpg);
+                background-repeat: no-repeat;
+                }
+
+                .accion{
+                    height: 220;
+                    width: 600;
+                    background-image: url(accion.avif);
+                    background-repeat: no-repeat;
+                    }
+
+               
+                    .mental{
+                        height: 234;
+                        width: 560;
+                        background-image: url(mental.png);
+                        background-repeat: no-repeat;
+                       }
