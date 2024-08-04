@@ -277,6 +277,79 @@ background-repeat: no-repeat;
                        
                        }
 
+                       .circuitocerrado{
+                       height: 300px;
+                       width: 600px;
+                       background-image: url(circuitocerrado.webp);
+                       background-repeat: no-repeat;
+                       
 
+            
+                       }
+                       
+
+                    .circuitoabierto{
+                    height: 600px;
+                   width: 900px;
+                    background-image: url(circuitoabierto.png);
+                    background-repeat: no-repeat;
+
+                    }   
+
+
+                    .cortocircuito{
+                    height: 300px;
+                    width: 600px;
+                    background-image: url(cortocircuito.webp) ;
+                    background-repeat: no-repeat;
+                    }
+
+                    .circuitoenserie{
+                    height: 300px;
+                    width: 660px;
+                   background-image: url(circuitoenserie.jpg);
+                  background-repeat: no-repeat;
+                    }
+
+                    .circuitoparalelo{
+                   height: 250px;
+                  width: 600px;
+                  background-image: url(circuitoparalelo.webp);
+                  background-repeat: no-repeat;
+
+                    }
+
+
+                        
+                .mate{
+               height: 110px;
+                width: 800px;
+               background-image: url(mate.png);
+        background-repeat: no-repeat;
+        background-position: centers;
+              
+                }
+
+                .ejercicio{
+                    height: 300px;
+                     width: 800px;
+                    background-image: url(ejercicio.png);
+             background-repeat: no-repeat;
+             background-position: centers;
+        
+               }     
+
+
+
+               .ejercicio2{
+                height: 300px;
+                 width: 800px;
+                background-image: url(ejercicio2.webp);
+         background-repeat: no-repeat;
+         background-position: centers;
+    
+           }     
+ 
+     
                       
 
