@@ -368,6 +368,23 @@ background-repeat: no-repeat;
                                     
 
                                }
+
+                               .hojadetrabajo{
+                                height: 350px;
+                               width: 800px;
+                               background-image: url(hojadetrabajo.jpg);
+                               background-repeat: no-repeat;
+             
+                                 }
+
+                                 .columnas{
+                                    height: 350px;
+                                   width: 800px;
+                                   background-image: url(columnas.jpg);
+                                   background-repeat: no-repeat;
+                 
+                                     }
+                                    
                                 
      
                       
