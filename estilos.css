@@ -562,7 +562,41 @@ background-repeat: no-repeat;
                                                                                 background-image: url(resultado333.png);
                                                                                 background-repeat: no-repeat;
                                                                                 }
+                                                                                .enlaces{
+                                                                                  height: 150px;
+                                                                                  width: 290px;
+                                                                                  background-image: url(enlaces.png);
+                                                                                  background-repeat: no-repeat;
+                                                                                float: left;
+                                                                                  }
 
+                                                                                  .enlaceionico{
+                                                                                    height: 200px;
+                                                                                    width: 400px;
+                                                                                    background-image: url(enlaceionico.png);
+                                                                                    background-repeat: no-repeat;
+                                                                                    float: center;
+                                                                                    }
+
+                                                                                    .enlacecovalente{
+                                                                                      height: 250px;
+                                                                                      width: 400px;
+                                                                                      background-image: url(enlacecovalente.png);
+                                                                                      background-repeat: no-repeat;
+                                                                                      float: center;
+                                                                                      }
+
+
+                                                                                      .enlacemetalico{
+                                                                                        height: 200px;
+                                                                                        width: 400px;
+                                                                                        background-image: url(enlacemetalico.png);
+                                                                                        background-repeat: no-repeat;
+                                                                                        float: center;
+                                                                                        }                         
+      
+    
+  
                                                                                 
         
     
