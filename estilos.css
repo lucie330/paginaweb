@@ -368,23 +368,6 @@ background-repeat: no-repeat;
 
                                }
 
-                               .hojadetrabajo{
-                                height: 350px;
-                               width: 800px;
-                               background-image: url(hojadetrabajo.jpg);
-                               background-repeat: no-repeat;
-             
-                                 }
-
-                                 .columnas{
-                                    height: 350px;
-                                   width: 800px;
-                                   background-image: url(columnas.jpg);
-                                   background-repeat: no-repeat;
-                 
-                               
-                                 }
-
 
                                  .trimestre1{
                                   height: 480px;
@@ -412,28 +395,29 @@ background-repeat: no-repeat;
                                       }
 
 
-                                      .sintomas11{
-                                        height: 500px;
-                                        width: 600px;
-                                        background-image: url(sintomas11.jpeg);
+                                      .sintomas111{
+                                        height: 450px;
+                                        width: 400px;
+                                        background-image: url(sintomas111.png);
                                         background-repeat: no-repeat;
                                         float: left;
                                         }
 
 
-                                        .sintomas2{
-                                          height: 500px;
+                                        .sintomas222{
+                                          height: 200px;
                                           width: 600px;
-                                          background-image: url(sintomas2.webp);
+                                          background-image: url(sintomas222.png);
                                           background-repeat: no-repeat;
-                                          float: left;
+                                          float: right;
+                                          float: center;
                                           }
 
 
-                                          .sintomas3{
+                                          .sintomas333{
                                             height: 500px;
                                             width: 600px;
-                                            background-image: url(sintomas3.png);
+                                            background-image: url(sintomas333.png);
                                             background-repeat: no-repeat;
                                             float: left;
                                             }
@@ -593,9 +577,81 @@ background-repeat: no-repeat;
                                                                                         background-image: url(enlacemetalico.png);
                                                                                         background-repeat: no-repeat;
                                                                                         float: center;
-                                                                                        }                         
+                                                                                        }      
+                                                                                        
+                                                                                        .logoexcel{
+                                                                                          height: 200px;
+                                                                                          width: 250px;
+                                                                                          background-image: url(logoexcel.png);
+                                                                                          background-repeat: no-repeat;
+                                                                                          float: right;
+                                                                                          }           
       
-    
+                                                                                          .funcionsumar{
+                                                                                            height: 200px;
+                                                                                            width: 400px;
+                                                                                            background-image: url(funcionsumar.png);
+                                                                                            background-repeat: no-repeat;
+                                                                                      
+                                                                                            }           
+
+                                                                                            .funcionpromedio{
+                                                                                              height: 200px;
+                                                                                              width: 400px;
+                                                                                              background-image: url(funcionpromedio.png);
+                                                                                              background-repeat: no-repeat;
+                                                                                              
+                                                                                              }           
+
+
+                                                                                              .funcionmax{
+                                                                                                height: 200px;
+                                                                                                width: 500px;
+                                                                                                background-image: url(funcionmax.png);
+                                                                                                background-repeat: no-repeat;
+                                                                                              
+                                                                                                }           
+
+                                                                                                .funcionmin{
+                                                                                                  height: 200px;
+                                                                                                  width: 800px;
+                                                                                                  background-image: url(funcionmin.png);
+                                                                                                  background-repeat: no-repeat;
+                                                                                                
+                                                                                                  }           
+
+
+                                                                                                  .funcionsi{
+                                                                                                    height: 200px;
+                                                                                                    width: 500px;
+                                                                                                    background-image: url(funcionsi.png);
+                                                                                                    background-repeat: no-repeat;
+                                                                                                  
+                                                                                                    }           
+
+                                                                                                    .funcionbuscar{
+                                                                                                      height: 200px;
+                                                                                                      width: 500px;
+                                                                                                      background-image: url(funcionbuscar.png);
+                                                                                                      background-repeat: no-repeat;
+                                                                                                    
+                                                                                                      }           
+
+                                                                                                      .funcionhoy{
+                                                                                                        height: 200px;
+                                                                                                        width: 500px;
+                                                                                                        background-image: url(funcionhoy.png);
+                                                                                                        background-repeat: no-repeat;
+                                                                                                      
+                                                                                                        }           
+
+                                                                                                        .funcioncontar{
+                                                                                                          height: 200px;
+                                                                                                          width: 500px;
+                                                                                                          background-image: url(funcioncontar.png);
+                                                                                                          background-repeat: no-repeat;
+                                                                                                        
+                                                                                                          }           
   
                                                                                 
         
