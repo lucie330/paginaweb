@@ -651,7 +651,31 @@ background-repeat: no-repeat;
                                                                                                           background-image: url(funcioncontar.png);
                                                                                                           background-repeat: no-repeat;
                                                                                                         
-                                                                                                          }           
+                                                                                                          }     
+                                                                                                          .iniciologo{
+                                                                                                            height: 408px;
+                                                                                                            width: 494px;
+                                                                                                            background-image: url(iniciologo.png);
+                                                                                                            background-repeat: no-repeat;
+                                                                                                           float: right;
+                                                                                                          }    
+                                                                                                          
+                                                                                                          .logocontactos{
+                                                                                                            height: 415px;
+                                                                                                            width: 322px;
+                                                                                                            background-image: url(logocontactos.png);
+                                                                                                            background-repeat: no-repeat;
+                                                                                                           float: right;
+                                                                                                          } 
+                                                                                                          
+                                                                                                          .mapamentalquimica{
+                                                                                                            height: 1500px;
+                                                                                                            width: 1584px;
+                                                                                                            background-image: url(mapamentalquimica.jpg);
+                                                                                                            background-repeat: no-repeat;
+                                                                                                           
+                                                                                                          }      
+  
   
                                                                                 
         
