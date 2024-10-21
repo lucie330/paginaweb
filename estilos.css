@@ -657,15 +657,15 @@ background-repeat: no-repeat;
                                                                                                             width: 494px;
                                                                                                             background-image: url(iniciologo.png);
                                                                                                             background-repeat: no-repeat;
-                                                                                                           float: right;
+                                                                                                           
                                                                                                           }    
                                                                                                           
                                                                                                           .logocontactos{
-                                                                                                            height: 415px;
-                                                                                                            width: 322px;
+                                                                                                            height: 331px;
+                                                                                                            width: 345px;
                                                                                                             background-image: url(logocontactos.png);
                                                                                                             background-repeat: no-repeat;
-                                                                                                           float: right;
+                                                                                                                
                                                                                                           } 
                                                                                                           
                                                                                                           .mapamentalquimica{
@@ -673,8 +673,64 @@ background-repeat: no-repeat;
                                                                                                             width: 1584px;
                                                                                                             background-image: url(mapamentalquimica.jpg);
                                                                                                             background-repeat: no-repeat;
+                                                                                                          
                                                                                                            
-                                                                                                          }      
+                                                                                                          }     
+                                                                                                          
+                                                                                                          .noticias{
+                                                                                                            height: 250px;
+                                                                                                            width: 400px;
+                                                                                                            background-image: url(noticias.png);
+                                                                                                            background-repeat: no-repeat;
+                                                                                                            float: center;
+                                                                                                            }
+
+                                                                                                            .oro{
+                                                                                                              height: 250px;
+                                                                                                              width: 400px;
+                                                                                                              background-image: url(oro.png);
+                                                                                                              background-repeat: no-repeat;
+                                                                                                              float: center;
+                                                                                                              }
+                                                                                                              .escuchar{
+                                                                                                                height: 250px;
+                                                                                                                width: 400px;
+                                                                                                                background-image: url(escuchar.png);
+                                                                                                                background-repeat: no-repeat;
+                                                                                                                float: center;
+                                                                                                                }
+
+                                                                                                                .diferencias{
+                                                                                                                  height: 250px;
+                                                                                                                  width: 400px;
+                                                                                                                  background-image: url(diferencias.png);
+                                                                                                                  background-repeat: no-repeat;
+                                                                                                                  float: center;
+                                                                                                                  }
+
+                                                                                                                  .noviolencia{
+                                                                                                                    height: 250px;
+                                                                                                                    width: 400px;
+                                                                                                                    background-image: url(noviolencia.png);
+                                                                                                                    background-repeat: no-repeat;
+                                                                                                                    float: center;
+                                                                                                                    }
+
+                                                                                                                    .fluido{
+                                                                                                                      height: 250px;
+                                                                                                                      width: 400px;
+                                                                                                                      background-image:url(fluido.png) ;
+                                                                                                                      background-repeat: no-repeat;
+                                                                                                                      float: center;
+                                                                                                                      }
+
+                                                                                                                      .estereotipos{
+                                                                                                                        height: 250px;
+                                                                                                                        width: 400px;
+                                                                                                                        background-image:url(estereotipos.png) ;
+                                                                                                                        background-repeat: no-repeat;
+                                                                                                                        float: center;
+                                                                                                                        }
   
   
                                                                                 
